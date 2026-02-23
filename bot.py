@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 from telegram.error import TelegramError, BadRequest, RetryAfter
 
 # --- CONFIG ---
-BOT_TOKEN = "8317097040:AAE9VO4U5JQiKeR6p83OVzXt1sbceB1HLYU"
+BOT_TOKEN = "8317097040:AAFGc1gL9sAXduE5U1gQEL3P_HTosxEbiss"
 ADMIN_ID = 6068463116 
 DB_FILE = "sticker_pro_db.json"
 MAX_STICKERS_PER_PACK = 120  # Telegram limit
